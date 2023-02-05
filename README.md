@@ -1,2 +1,4 @@
-# xiaohongshu_img_without_water_mark
-小红书爬取无水印图片
+# 小红书爬取无水印图片
+
+在使用之前，登录网页版小红书获取cookie
+
